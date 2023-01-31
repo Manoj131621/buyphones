@@ -1,0 +1,34 @@
+{
+    "products":[
+     { 
+          "id":1,
+            "name":"Samsung Galaxy M33",
+            "src":"https://m.media-amazon.com/images/I/31GEfQ0aszL._SY445_SX342_QL70_FMwebp_.jpg",
+            "price":17999
+    },
+    {
+        "id":2,
+            "name":"Apple iPhone 13 Mini (128GB) - Blue",
+            "src":"https://m.media-amazon.com/images/I/31GEfQ0aszL._SY445_SX342_QL70_FMwebp_.jpg",
+            "price":64900
+    },
+    {
+        "id":3,
+            "name":"Redmi 9A Sport",
+            "src":"https://m.media-amazon.com/images/I/810KHyQ4WcL._SX679_.jpg",
+            "price":6499
+    },
+    {
+        "id":4,
+            "name":"OPPO A31",
+            "src":"https://m.media-amazon.com/images/I/71KCwNV6MuL._SX679_.jpg",
+            "price":12490
+    },
+    {
+        "id":5,
+            "name":"OPPO A31",
+            "src":"https://m.media-amazon.com/images/I/71KCwNV6MuL._SX679_.jpg",
+            "price":12491
+    }
+    ]
+}
